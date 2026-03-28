@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+
+# PyTorch models and weights
+*.pt
+*.pth
+*.ckpt
+*.nemo
+/tmp/nemo_extracted/
+
+# Dataset and Models (specific to this model replication)
+sherpa-onnx-streaming-conformer-zh-2023-05-23/
+sherpa-onnx-streaming-conformer-zh-2023-05-23.tar.bz2
+stt_en_conformer_ctc_small.nemo
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
+tips.md
