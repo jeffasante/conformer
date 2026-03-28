@@ -1,5 +1,7 @@
 # Conformer: Paper Replication
 
+![Conformer Architecture](docs/figure.jpg)
+
 Implementation of **"Conformer: Convolution-augmented Transformer for Speech Recognition"**
 (Gulati et al., Google, 2020 — arXiv:2005.08100)
 
